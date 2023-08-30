@@ -4,8 +4,6 @@
       <f7-subnavbar :inner="false">
         <f7-searchbar
           search-container=".virtual-list"
-          search-item="li"
-          search-in=".item-title"
         ></f7-searchbar>
       </f7-subnavbar>
     </f7-navbar>
